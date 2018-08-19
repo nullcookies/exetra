@@ -19,7 +19,7 @@ ini_set("session.gc_maxlifetime", 60 * 60 * 24 * 31);
 
 
 //define("URL", "http://localhost/new");
-define("URL", "http://localhost/eric");
+define("URL", "http://yout-tan.1d35.starter-us-east-1.openshiftapps.com");
 define("APP_NAME", "SwissFunding");
 
 
